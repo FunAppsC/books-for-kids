@@ -1,14 +1,17 @@
 [
     {
         "name": "xd1",
-        "author": "xd pro 1"
+        "author": "xd pro 1",
+        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_1.png"
     },
     {
         "name": "xd2",
-        "author": "xd pro 2"
+        "author": "xd pro 2",
+        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_2.png"
     },
     {
         "name": "xd3",
-        "author": "xd pro 3"
+        "author": "xd pro 3",
+        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_3.png"
     }
 ]
