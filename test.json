@@ -2,16 +2,19 @@
     {
         "name": "xd1",
         "author": "xd pro 1",
-        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_1.png"
+        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_1.png",
+        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/03/2503-Why_Owl_Only_comes_out_at_night-BookDash-FKB.pdf"
     },
     {
         "name": "xd2",
         "author": "xd pro 2",
-        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_2.png"
+        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_2.png",
+        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/03/2403-Big-Fish-and-Little-Fish-BB-FKB.pdf"
     },
     {
         "name": "xd3",
         "author": "xd pro 3",
-        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_3.png"
+        "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_3.png",
+        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/01/2501-Teddys_Wish-FKB.pdf"
     }
 ]
