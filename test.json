@@ -1,20 +1,23 @@
 [
     {
-        "name": "xd1",
-        "author": "xd pro 1",
+        "name": "Why Owl Only Comes Out at Night",
+        "author": "Gerald Bedeker, Wandile Mathe, Luke Mateman",
         "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_1.png",
-        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/03/2503-Why_Owl_Only_comes_out_at_night-BookDash-FKB.pdf"
+        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/03/2503-Why_Owl_Only_comes_out_at_night-BookDash-FKB.pdf",
+        "description": "The animals take turns at watching out for humans at night, but when Owl gets caught by a small boy what does he do? Will this action shape his future?"
     },
     {
-        "name": "xd2",
-        "author": "xd pro 2",
+        "name": "Big Fish and Little Fish",
+        "author": "Hemalatha Kanagalingam, R. Surendran",
         "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_2.png",
-        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/03/2403-Big-Fish-and-Little-Fish-BB-FKB.pdf"
+        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/03/2403-Big-Fish-and-Little-Fish-BB-FKB.pdf",
+        "description": "Big Fish gets trapped in a net, will Little Fish find someone to help?"
     },
     {
-        "name": "xd3",
-        "author": "xd pro 3",
+        "name": "Teddy’s Wish",
+        "author": "Niti Krishnakumar",
         "imageUrl": "https://raw.githubusercontent.com/FunAppsC/books-for-kids/main/bg_3.png",
-        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/01/2501-Teddys_Wish-FKB.pdf"
+        "bookUrl": "https://freekidsbooks.org/wp-content/uploads/2025/01/2501-Teddys_Wish-FKB.pdf",
+        "description": "Teddy wants to start a shoe shop, but it is really difficult to make shoes, will he manage?"
     }
 ]
